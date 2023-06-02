@@ -2042,3 +2042,13 @@ input, select, textarea {
 		#footer .copyright a {
 			color: inherit;
 		}
+
+/* Personal */
+
+.footerRiser{
+	margin-right:5px;
+}
+
+@media only screen and (max-width: 500px){
+	.surname{ visibility: hidden;}
+}
